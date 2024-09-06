@@ -21,6 +21,7 @@ export default function Home() {
             .
           </li>
           <li>Save and see your not changes instantly.</li>
+          <li>Nomor 3.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
